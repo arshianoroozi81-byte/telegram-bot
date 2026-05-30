@@ -1,6 +1,0 @@
-{
-  "$schema": "https://schema.railway.com/railway.schema.json",
-  "deploy": {
-    "startCommand": "python telb.py"
-  }
-}
